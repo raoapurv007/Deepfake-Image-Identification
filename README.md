@@ -7,9 +7,9 @@ In this Project We Try to identify the Deepfake Image in Python
 Used to build web-based applications that can be easily shared and used, even by people without technical expertise.
 In this context, it's likely used to create a web interface for users to upload images and get real-time deepfake detection results
 
-2.Torch: The fundamental Python library for machine learning, providing tensor computations and automatic differentiation.
+2. Torch: The fundamental Python library for machine learning, providing tensor computations and automatic differentiation.
 
-3.facenet_pytorch: A PyTorch library specifically designed for face recognition and analysis.
+3. facenet_pytorch: A PyTorch library specifically designed for face recognition and analysis.
 
 MTCNN: A state-of-the-art face detection model that can accurately locate faces in images, even in challenging conditions.
 
@@ -18,7 +18,7 @@ InceptionResnetV1: A powerful pre-trained face recognition model that extracts h
 4. NumPy: A library for numerical computations in Python.
 Used for efficient array manipulation and mathematical operations, which are essential for processing image data and performing calculations.
 
-5.PIL (Pillow): The Python Imaging Library (PIL) provides image processing capabilities.
+5. PIL (Pillow): The Python Imaging Library (PIL) provides image processing capabilities.
 Used for loading, manipulating, and saving images in various formats.
 
 6. OpenCV (cv2): A popular computer vision library.
