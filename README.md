@@ -32,7 +32,8 @@ Used for tasks like image and video processing, object detection, and face recog
 
   **show_cam_on_image:** A function to overlay the heatmap on the original image, providing a visual explanation of the model's decision.
 
-#Images
+# Images
+
 **Interface Look**
 
 ![2 (2)](https://github.com/user-attachments/assets/999788ff-6927-478b-8ba1-e42ef471c6d8)
